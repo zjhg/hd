@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d89e4779-aad0-4283-bd34-00c71d1b4536" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-    </list>
+    <list default="true" id="d89e4779-aad0-4283-bd34-00c71d1b4536" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,12 +124,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533565236483</updated>
-      <workItem from="1533565237731" duration="4848000" />
+      <workItem from="1533565237731" duration="6297000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4848000" />
+    <option name="totallyTimeSpent" value="6297000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -144,7 +142,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" sideWeight="0.5010571" side_tool="true" weight="0.24964234" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.24964234" />
